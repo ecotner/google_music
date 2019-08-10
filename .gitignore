@@ -1,0 +1,4 @@
+*.ipynb
+*.pyc
+*.pyo
+oauth_token

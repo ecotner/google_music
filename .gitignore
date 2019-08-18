@@ -2,3 +2,4 @@
 *.pyc
 *.pyo
 oauth_token
+config.json
